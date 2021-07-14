@@ -1,4 +1,4 @@
-# Errbot Slack Bolt
+# Errbot Slack Bolt Test
 
 Simple demo app using [Errbot Slack Bolt Backend](https://github.com/attakei-lab/errbot-slack-bolt-backend).
 
